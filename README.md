@@ -1,6 +1,5 @@
-Zenova – Smart Healthcare Chatbot with Emotion Detection
+**Zenova – Smart Healthcare Chatbot with Emotion Detection**
 
-Overview - 
 Zenova is an AI-powered healthcare chatbot designed to provide intelligent, context-aware responses by analyzing user emotions. It combines natural conversation with emotion detection to deliver more personalized and meaningful healthcare suggestions.
 
 Features - 
