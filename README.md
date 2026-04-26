@@ -10,7 +10,7 @@ Real-time interaction with responsive UI
 Backend API integration for processing and responses
 
 Tech Stack - 
-Frontend
+Frontend <br>
 React.js
 HTML, CSS, Tailwind
 Backend
