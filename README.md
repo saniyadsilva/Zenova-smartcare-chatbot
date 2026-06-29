@@ -20,6 +20,11 @@ Machine Learning <br>
 Emotion detection model <br>
 NLP-based response handling <br>
 <br>
+## Project Screenshots
+### Home Screen
+![Home Screen](image.png)
+### Chatbot Response
+![Chatbot Response](result.png)
 Backend Setup - <br>
 pip install -r requirements.txt <br>
 python main.py<br>
