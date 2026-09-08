@@ -55,6 +55,17 @@ System Architecture
 ![Home Screen](image.png)
 ### Chatbot Response
 ![Chatbot Response](result.png)
+##Patent
+A patent application has been published for the multimodal
+emotion-aware healthcare conversational framework.
+
+**Title:** A System and Method for a Multimodal Emotion-Aware Healthcare Conversational Framework
+
+**Application No.:** 202641102032 A
+
+**Publication Date:** 4 September 2026
+
+[View Patent Publication](docs/patent/Indian_Patent_Application_202641102032.pdf)
 Backend Setup - <br>
 pip install -r requirements.txt <br>
 python main.py<br>
