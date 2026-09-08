@@ -55,7 +55,7 @@ System Architecture
 ![Home Screen](image.png)
 ### Chatbot Response
 ![Chatbot Response](result.png)
-##Patent
+## Patent
 A patent application has been published for the multimodal
 emotion-aware healthcare conversational framework.
 
@@ -65,7 +65,7 @@ emotion-aware healthcare conversational framework.
 
 **Publication Date:** 4 September 2026
 
-[View Patent Publication](patent.pdf)
+[View Patent Publication](patent.pdf <br>
 Backend Setup - <br>
 pip install -r requirements.txt <br>
 python main.py<br>
