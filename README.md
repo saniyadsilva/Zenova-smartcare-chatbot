@@ -20,7 +20,9 @@ Machine Learning <br>
 Emotion detection model <br>
 NLP-based response handling <br>
 <br>
-System Architecture
+### System Architecture
+
+
                     ┌─────────────────────┐
                     │        User         │
                     └──────────┬──────────┘
@@ -65,7 +67,7 @@ emotion-aware healthcare conversational framework.
 
 **Publication Date:** 4 September 2026
 
-[View Patent Publication](patent.pdf <br>
+[View Patent Publication](patent.pdf) <br>
 Backend Setup - <br>
 pip install -r requirements.txt <br>
 python main.py<br>
