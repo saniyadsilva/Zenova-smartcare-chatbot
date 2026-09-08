@@ -65,7 +65,7 @@ emotion-aware healthcare conversational framework.
 
 **Publication Date:** 4 September 2026
 
-[View Patent Publication](docs/patent/Indian_Patent_Application_202641102032.pdf)
+[View Patent Publication](patent.pdf)
 Backend Setup - <br>
 pip install -r requirements.txt <br>
 python main.py<br>
