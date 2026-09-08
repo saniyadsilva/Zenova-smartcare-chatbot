@@ -20,6 +20,36 @@ Machine Learning <br>
 Emotion detection model <br>
 NLP-based response handling <br>
 <br>
+System Architecture
+                    ┌─────────────────────┐
+                    │        User         │
+                    └──────────┬──────────┘
+                               │
+               ┌───────────────┼───────────────┐
+               │               │               │
+               ▼               ▼               ▼
+          Text Input      Speech Input     Facial Input
+               │               │               │
+               ▼               ▼               ▼
+         Text Emotion     Speech Emotion   Facial Emotion
+            Model            Model            Model
+               │               │               │
+               └───────────────┼───────────────┘
+                               ▼
+                       Emotion Fusion
+                               │
+                               ▼
+                    Emotion-Aware Processing
+                               │
+                               ▼
+                       Conversational AI
+                               │
+                               ▼
+                    Personalized Response
+                               │
+                               ▼
+                             User
+                             <br>
 ## Project Screenshots
 ### Home Screen
 ![Home Screen](image.png)
