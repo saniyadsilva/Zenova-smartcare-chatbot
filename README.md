@@ -51,7 +51,7 @@ NLP-based response handling <br>
                                │
                                ▼
                              User
-                             <br>
+                            
 ## Project Screenshots
 ### Home Screen
 ![Home Screen](image.png)
