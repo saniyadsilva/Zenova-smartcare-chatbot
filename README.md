@@ -20,8 +20,6 @@ Machine Learning <br>
 Emotion detection model <br>
 NLP-based response handling <br>
 <br>
-
-
 ### System Architecture
 
 
