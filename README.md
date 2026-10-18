@@ -9,9 +9,6 @@ Context-aware responses based on detected emotions<br>
 Real-time interaction with responsive UI<br>
 Backend API integration for processing and responses<br>
 <br>
-
-
-
 Tech Stack  <br>
 Frontend - <br>
 React.js <br>
@@ -23,6 +20,8 @@ Machine Learning <br>
 Emotion detection model <br>
 NLP-based response handling <br>
 <br>
+
+
 ### System Architecture
 
 
